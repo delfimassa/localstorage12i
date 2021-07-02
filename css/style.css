@@ -1,0 +1,11 @@
+.bgVerde{
+    background-color: lightgreen;
+}
+li{
+    text-align: start;
+}
+li:hover{
+    background: lightskyblue;
+    cursor: pointer;
+    text-decoration-line: line-through;
+}
